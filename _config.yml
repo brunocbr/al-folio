@@ -143,14 +143,14 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Conte
+  first_name: [Bruno, B.]
 
   style: apa
-  locale: en
+  locale: pt_BR
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: papers-bruno.bib
   bibliography_template: bib
 
   replace_strings: true
