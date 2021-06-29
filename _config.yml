@@ -147,7 +147,7 @@ scholar:
   first_name: [Bruno, B.]
 
   style: apa
-  locale: pt_BR
+  locale: en
 
   source: /_bibliography/
   bibliography: papers-bruno.bib
