@@ -6,19 +6,21 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: bruno_bel.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Programa de Estudos Pós-Graduados em Filosofia</p>
+    <p>Rua Ministro Godoy, 969, 4º. andar - Sala 4E-16</p>
+    <p>05015-901 São Paulo, SP</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Bruno Conte possui graduação em Filosofia pela Pontifícia Universidade Católica de São Paulo (2005), mestrado em Filosofia pela Pontifícia Universidade Católica de São Paulo (2010) e doutorado em Filosofia pela Pontifícia Universidade Católica de São Paulo (2016), com estágio doutoral na École Normale Supérieure de Paris.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Sua tese doutoral, "A Doxa no poema de Parmênides" foi vencedora do Prêmio Capes 2017 de melhor tese na área Filosofia.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Atualmente é professor da Pontifícia Universidade Católica de São Paulo e pós-doutorando na FFLCH/USP. É editor-assistente da revista [Hypnos](https://www.hypnos.org.br/revista); conselheiro e coordenador do Núcleo de Filosofia do Centro de Estudos Helênicos [Areté](http://www.arete.org.br/).
+
+Tem experiência na área de Filosofia, com ênfase em História da Filosofia Antiga, Pré-Socráticos, Parmênides e o Eleatismo, Platão e Aristóteles.
