@@ -9,8 +9,8 @@ profile:
   image: bruno_bel.jpg
   address: >
     <p>Rua Min. Godoy, 969</p>
-    <p>4º andar - Sala 4E-16</p>
-    <p>05015-901 São Paulo, SP</p>
+    <p>Sala 4E-16</p>
+    <p>05015-901 São Paulo</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
