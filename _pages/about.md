@@ -8,8 +8,8 @@ profile:
   align: right
   image: bruno_bel.jpg
   address: >
-    <p>Programa de Estudos Pós-Graduados em Filosofia</p>
-    <p>Rua Ministro Godoy, 969, 4º. andar - Sala 4E-16</p>
+    <p>Rua Ministro Godoy, 969</p>
+    <p>4º. andar - Sala 4E-16</p>
     <p>05015-901 São Paulo, SP</p>
 
 news: true  # includes a list of news items
